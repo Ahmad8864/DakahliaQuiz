@@ -1,2 +1,2 @@
-# dakahlia_quiz
+# DakahliaQuiz
 Quiz page for Dakahlia
